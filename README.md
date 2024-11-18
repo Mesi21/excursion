@@ -46,6 +46,3 @@ Give a ⭐️ if you liked this solution to the project
 ## 🙏 Acknowledgments
 
 I would like to thank everyone who reviewed this project.
-
-
-### This README.md will be updated soon ...
