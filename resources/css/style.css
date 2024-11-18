@@ -20,3 +20,18 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
+
+#title-guide {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 21px;
+    color: gray;
+}
+
+p {
+    text-align: right;
+    color:gray;
+}
