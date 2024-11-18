@@ -1,15 +1,15 @@
 # Excursion
 ## Portfolio project
 
-Description... 
+A page to showcase soon to be relased new app.
 
 ## Screenshot
 
-![screenshot](#a-codecademy-project)
+![screenshot](./resources/images/excursion.png)
 
-## Live version
+## Link to the Live Version
 
-
+[Live version](https://mesi21.github.io/excursion/)
 
 ## Get started
 
